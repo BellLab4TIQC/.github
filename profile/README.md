@@ -6,15 +6,16 @@ Software and tooling for trapped-ion quantum computing.
 
 [组织主页](https://belllab4tiqc.github.io/) · [浏览仓库](https://github.com/orgs/BellLab4TIQC/repositories)
 
-我们在这里组织与维护实验控制、设备接入、数据采集及相关开发工具，让软件实现、实验需求和项目文档在同一个协作空间中持续演进。
+我们维护离子阱实验相关的控制软件、设备接口和数据采集工具。
 
-## 软件方向
+## 公开仓库
 
-| 方向 | 关注的内容 |
+| 仓库 | 简介 |
 | --- | --- |
-| 实验控制 | 实验流程、控制软件与配套工具 |
-| 设备接入 | 设备接口、驱动及服务之间的协作 |
-| 数据与工具 | 数据采集、状态监测与日常开发支持 |
+| [belllab4tiqc.github.io](https://github.com/BellLab4TIQC/belllab4tiqc.github.io) | 组织官网，介绍软件方向并提供项目入口。 |
+| [.github](https://github.com/BellLab4TIQC/.github) | 维护这份组织公开简介。 |
+
+组织成员登录后，可在成员视图中查看完整仓库介绍。
 
 ## 开始参与
 

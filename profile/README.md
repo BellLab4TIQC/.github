@@ -38,7 +38,6 @@ Software and tooling for trapped-ion quantum computing.
 | [belllab4tiqc.github.io](https://github.com/BellLab4TIQC/belllab4tiqc.github.io) | 组织官网，介绍软件方向并提供项目入口。 |
 | [.github](https://github.com/BellLab4TIQC/.github) | 维护这份组织公开简介。 |
 | [.github-private](https://github.com/BellLab4TIQC/.github-private) | GitHub 组织首页的成员简介与导航。 |
-| [demo-repository](https://github.com/BellLab4TIQC/demo-repository) | GitHub 练习仓库，用于熟悉文件编辑、PR 和 Actions。 |
 
 ## 开始参与
 
